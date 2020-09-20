@@ -1,0 +1,66 @@
+header{
+    height:7em;
+    width:100%;
+    background-color: black;
+    margin: 0 auto;
+}
+
+.logo{
+    height:40%;
+    max-width: 200px;
+    
+}
+
+main{
+    width:100%;
+    height: 600px;
+}
+
+nav{
+    color:white;
+    height:100px;
+    /* width:500px; */
+    float: right;
+    display: grid;
+    grid-template-columns:100px 100px 75px 75px 100px; 
+    margin-right:75px;
+}
+
+.pictures{
+    width:100%;
+    height: 600px;
+}
+
+div{
+    height:100px;
+    width:500px;
+    float: center;
+    display: grid;
+    grid-template-columns:100px 100px 75px 75px 100px; 
+    margin-right:75px;
+
+}
+.social{
+    color: white;
+    margin: 1em;
+}
+
+.pastaccino-logo{
+    color: white;
+    
+}
+
+footer{
+    height:7em;
+    background-color: black;
+}
+
+.contact{
+    max-width:50px;
+    background-color:white;
+}
+.social{
+    float:center;
+    display:grid;
+    grid-template-rows: 75px 75px 75px 75px;
+}
